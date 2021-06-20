@@ -1,4 +1,4 @@
-package Atts3;
+package Atividade3;
 
 import java.util.Scanner;
 
